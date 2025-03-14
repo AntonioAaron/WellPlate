@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C0868A3E-B4F0-40BA-8AE0-6DBA8B2834EC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ADA7F57-2CBD-4107-96E4-347894E47EEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/WellPlate-esbjthwsdimleyhgqbvrpnivdiec/Build/Intermediates.noindex/WellPlate.build/Debug-iphonesimulator/WellPlate.build/DerivedSources/GeneratedAssetSymbols.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "primary"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8ADA7F57-2CBD-4107-96E4-347894E47EEA - db108893bf7b9522"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for _23"
+                  moduleName = "WellPlate.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonioaaronhernandez/Library/Developer/Xcode/DerivedData/WellPlate-esbjthwsdimleyhgqbvrpnivdiec/Build/Intermediates.noindex/WellPlate.build/Debug-iphonesimulator/WellPlate.build/DerivedSources/GeneratedAssetSymbols.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89">
+               </Location>
+               <Location
+                  uuid = "8ADA7F57-2CBD-4107-96E4-347894E47EEA - 33d11210fb81d536"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeveloperToolsSupport.ImageResource._23.unsafeMutableAddressor : DeveloperToolsSupport.ImageResource"
+                  moduleName = "WellPlate.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonioaaronhernandez/Library/Developer/Xcode/DerivedData/WellPlate-esbjthwsdimleyhgqbvrpnivdiec/Build/Intermediates.noindex/WellPlate.build/Debug-iphonesimulator/WellPlate.build/DerivedSources/GeneratedAssetSymbols.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
